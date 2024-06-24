@@ -19,10 +19,7 @@ To insure the quality of AC speech, we record both voice and vibration signal wi
 
 The following are the device under test:
 
-1. 352c22 (piezoelectric accelerometers, PCB Piezotronics)
-2. 352c33 (piezoelectric accelerometers, PCB Piezotronics)
-3. FPC_ADXL335 （Commercial MEMS accelerometer in FPC）
-4. FPC_ADXL354 （Commercial MEMS accelerometer in FPC）
+1. FPC_ADXL354 （Commercial MEMS accelerometer in FPC）
 
 ### Speech Data
 
